@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "G3MB-202P-4_DC5"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-10-15-10:35:34)
+    (mountForm default
+        (footprintRef "G3MB202P4DC5")
+        (spec "System")
+    )
+)

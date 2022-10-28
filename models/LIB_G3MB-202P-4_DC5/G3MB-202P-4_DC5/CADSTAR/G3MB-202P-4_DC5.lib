@@ -1,0 +1,20 @@
+.G3MB-202P-4_DC5 :1 ;Solid State Relays - PCB Mount 2A 100-240VAC Output 5VDC 5.08mm
+G3MB202P4DC5
+*STM K
+*NGS
+*PLB 1="LOAD_1" 2="LOAD_2" 3="+" 4="-"
+*MXP 4
+*DFN G3MB-202P-4_DC5
+~!Manufacturer_Name (Omron Electronics)
+~!Manufacturer_Part_Number (G3MB-202P-4 DC5)
+~!Mouser Part Number (653-G3MB-202P4DC5)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Omron-Automation-and-Safety/G3MB-202P-4-DC5?qs=Z0CfnKMjtWg7MIsv3RC0Aw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/G3MB-202P-4 DC5.pdf)
+~!Height (20.5mm)
+~!3D_Model (G3MB-202P-4_DC5)
+G3MB-202P-4_DC5
+1.1!U 2.1!U 3.1!U 4.1!U 

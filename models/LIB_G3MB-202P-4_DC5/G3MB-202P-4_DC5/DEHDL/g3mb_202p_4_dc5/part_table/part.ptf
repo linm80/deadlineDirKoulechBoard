@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'G3MB_202P_4_DC5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "VOLTAGE", "SLOPE", "SUBTYPE", "PACKAGE", "CURRENT", "IPEAK";
+{========================================================================================}
+ "Omron Electronics", "G3MB-202P-4 DC5" (!) = "", "G3MB202P4DC5", "Other", "653-G3MB-202P4DC5", "https://www.mouser.co.uk/ProductDetail/Omron-Automation-and-Safety/G3MB-202P-4-DC5?qs=Z0CfnKMjtWg7MIsv3RC0Aw%3D%3D", "", "", "", "", "Solid State Relays - PCB Mount 2A 100-240VAC Output 5VDC 5.08mm", "https://componentsearchengine.com/Datasheets/1/G3MB-202P-4 DC5.pdf", "20.5 mm", "125", "", "", "", "24", "", "SOLID STATE RELAY GENERAL PURPOSE THROUGH HOLE", "SIP-4", "2", "30"
+END_PART
+
+END.
