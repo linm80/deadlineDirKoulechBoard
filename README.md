@@ -8,7 +8,7 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - Uart,i2c and spi on headers for expension
 - Usb c for power/serial com
 - Powered with hi-link 5v embedded smps (fused, varistor...
-- Switch for 3s (12v) batterie (buck converted to 5v
+- Switch for 3s (12v) batterie (buck converted to 5v, lmr33630 addar
 - Small footprint
 - Ssd1306 
 - Buzzer
@@ -17,6 +17,8 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - One sided (if possible
 - E-fuse, ff fuse and all the safety 
 - 2 layer if possible otherwise 4 layers 
+- ds18b20 temp sensors
+- sx1278 lora module (ra-01)
 
 ## Available components :
 
