@@ -19,6 +19,7 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - 2 layer if possible otherwise 4 layers 
 - ds18b20 temp sensors
 - sx1278 lora module (ra-01)
+- Modular daughter boards (power, relays, programming, reciever) for a parts based business model
 
 ## Available components :
 
