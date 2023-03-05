@@ -2,9 +2,10 @@
 Esp32 based board with digital inputs, control relays, and communication components
 
 ## Draft ideas :
-- Esp32 vroom. Module
+- Esp32 s3 ic with flash
+- IO Expander
 - Multiple digital input channels
-- 4 ssr g3mb-202 (switch contactors) (with led feedback
+- 4 ssr g3mb-202 (switch contactors) (with led feedback) (need 5v to actuate.. active low)
 - Uart,i2c and spi on headers for expension
 - Usb c for power/serial com
 - Powered with hi-link 5v embedded smps (fused, varistor...
@@ -19,6 +20,9 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - 2 layer if possible otherwise 4 layers 
 - ds18b20 temp sensors
 - sx1278 lora module (ra-01)
+- m660 neoway sim
+- ch340c
+- mpu6050
 - Modular daughter boards (power, relays, programming, reciever) for a parts based business model
 
 ## Available components :
