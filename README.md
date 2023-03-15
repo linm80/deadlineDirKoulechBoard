@@ -24,6 +24,8 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - ch340c
 - mpu6050
 - Modular daughter boards (power, relays, programming, reciever) for a parts based business model
+- SD Card
+- li-po Battery
 
 ## Available components :
 
