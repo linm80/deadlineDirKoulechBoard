@@ -28,6 +28,8 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - li-po Battery
 - uln2007 relays
 - uln2007 l293d
+- ads1115
+- pca9685
 
 ## Available components :
 
