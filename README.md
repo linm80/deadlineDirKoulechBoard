@@ -26,6 +26,8 @@ Esp32 based board with digital inputs, control relays, and communication compone
 - Modular daughter boards (power, relays, programming, reciever) for a parts based business model
 - SD Card
 - li-po Battery
+- uln2007 relays
+- uln2007 l293d
 
 ## Available components :
 
